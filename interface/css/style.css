@@ -1,0 +1,90 @@
+/* topicGraph - (c) 2014 Samuel Ronnqvist - sronnqvi@abo.fi */
+
+.overlay {
+    fill: none;
+    pointer-events: all;
+}
+
+.gnode {
+    font-family: sans-serif;
+    font-size: 9pt;
+    fill: black;
+    cursor: pointer;
+}
+
+.node {
+    stroke-width: 1.5px;
+    fill: #15181f;
+}
+
+.link {
+    stroke-width: 2.2px;
+}
+
+.graph{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    margin: 0px;
+    background-color: #15181f;
+    background-color: #fff;
+}
+
+.info{
+    position: fixed;
+    top: 150px;
+    left: 0px;
+    width: 200px;
+    background-color: #000;
+    opacity: 1;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 10pt;
+    padding: 8px;
+    display: none;
+    padding: 10px;
+    border-top: 1px solid #333;
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #333;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 9pt;
+    color: #666;
+}
+
+.info h4{
+    margin-top: 3px;
+}
+
+.header{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 165px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #333;
+    border-bottom-right-radius: 10px;
+    background-color: #0b0e14;
+    font-family: sans-serif;
+    font-size: 9pt;
+    color: #666;
+    display: none;
+}
+
+.header h1{
+    font-size: 12pt;
+}
+
+.controls{
+    position: fixed;
+    top: 5px;
+    right: 5px;
+}
+.controls input{
+    width: 25px;
+}

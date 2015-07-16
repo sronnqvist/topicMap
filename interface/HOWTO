@@ -1,0 +1,4 @@
+Run local web server: python -m SimpleHTTPServer
+Open http://127.0.0.1:8000/ in browser. Best performance in Chrome.
+Folder "data" contains example data, may be replaced by output JSON-file from modeling scripts.
+
