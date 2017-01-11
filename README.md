@@ -11,7 +11,14 @@ License: Creative Commons, Attribution-ShareAlike 4.0 International
 
 For academic purposes, please cite:
 
-Samuel Rönnqvist. Exploratory topic modeling with distributional semantics. In Proceedings of the 14th International Symposium on Intelligent Data Analysis (IDA). Forthcoming 2015. 
+Samuel Rönnqvist. 2015. Exploratory topic modeling with distributional semantics. In Advances in Intelligent Data Analysis XIV: 14th International Symposium, IDA 2015, Saint Etienne. France, October 22 -24, 2015. Proceedings. 
+
+```
+@Inbook{Ronnqvist2015topicMap, author="R{\"o}nnqvist, Samuel", editor="Fromont, Elisa
+and De Bie, Tijl and van Leeuwen, Matthijs", title="Exploratory Topic Modeling with Distributional Semantics", bookTitle="Advances in Intelligent Data Analysis XIV: 14th International Symposium, IDA 2015, Saint Etienne. France, October 22 -24, 2015. Proceedings",
+year="2015", publisher="Springer International Publishing", address="Cham", pages="241--252", isbn="978-3-319-24465-5", doi="10.1007/978-3-319-24465-5_21", url="http://dx.doi.org/10.1007/978-3-319-24465-5_21"}
+
+```
 
 --- --- ---
 
